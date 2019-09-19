@@ -1,0 +1,16 @@
+PODS:
+  - cocoapods_bin_issue_11_import_PodA (0.1.0)
+
+DEPENDENCIES:
+  - cocoapods_bin_issue_11_import_PodA (from `../`)
+
+EXTERNAL SOURCES:
+  cocoapods_bin_issue_11_import_PodA:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  cocoapods_bin_issue_11_import_PodA: 672e72772df74c04f44c98e3f4721c6d5b927061
+
+PODFILE CHECKSUM: 7b3960b63de8b58401ea2190875977e7ef3aa33b
+
+COCOAPODS: 1.7.5

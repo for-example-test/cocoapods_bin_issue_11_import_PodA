@@ -1,0 +1,30 @@
+{
+  "name": "cocoapods_bin_issue_11_import_PodA",
+  "version": "0.1.0",
+  "summary": "A short description of cocoapods_bin_issue_11_import_PodA.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tripleCC/cocoapods_bin_issue_11_import_PodA",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tripleCC": "triplec.linux@gmail.com"
+  },
+  "source": {
+    "http": "http://iosframeworkserver-shopkeeperclient.app.2dfire.com/download/cocoapods_bin_issue_11_import_PodA/0.1.0.zip",
+    "type": "zip"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": [
+    "cocoapods_bin_issue_11_import_PodA.framework/Headers/*",
+    "cocoapods_bin_issue_11_import_PodA.framework/Versions/A/Headers/*"
+  ],
+  "vendored_frameworks": "cocoapods_bin_issue_11_import_PodA.framework",
+  "public_header_files": [
+    "cocoapods_bin_issue_11_import_PodA.framework/Headers/*",
+    "cocoapods_bin_issue_11_import_PodA.framework/Versions/A/Headers/*"
+  ]
+}
