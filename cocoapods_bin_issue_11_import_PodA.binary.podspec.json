@@ -12,7 +12,7 @@
     "tripleCC": "triplec.linux@gmail.com"
   },
   "source": {
-    "http": "http://iosframeworkserver-shopkeeperclient.app.2dfire.com/download/cocoapods_bin_issue_11_import_PodA/0.1.0.zip",
+    "http": "https://github.com/for-example-test/cocoapods_bin_issue_11_import_PodA/releases/download/0.1.0/cocoapods_bin_issue_11_import_PodA.framework.zip",
     "type": "zip"
   },
   "platforms": {
@@ -22,6 +22,11 @@
     "cocoapods_bin_issue_11_import_PodA.framework/Headers/*",
     "cocoapods_bin_issue_11_import_PodA.framework/Versions/A/Headers/*"
   ],
+  "dependencies": {
+    "cocoapods_bin_issue_11_import_PodB": [
+
+    ]
+  },
   "vendored_frameworks": "cocoapods_bin_issue_11_import_PodA.framework",
   "public_header_files": [
     "cocoapods_bin_issue_11_import_PodA.framework/Headers/*",
